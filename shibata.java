@@ -3,6 +3,8 @@ public class Shibata {
 	
 		System.out.println("Hello world!");
 		System.out.println("Fala aí pessoal!");
+
+		System.out.println("MASTER: Fala aí pessoal!");
 		
 	}
 
